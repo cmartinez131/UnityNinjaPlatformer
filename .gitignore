@@ -1,0 +1,37 @@
+# This should go in root directory
+# git will ignore these files
+
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+._*
+
+# Thumbnails
+Thumbs.db
+
+# User-specific files
+*.user
+*.userprefs
+*.unityproj
+*.swp
+*.swo
+
+# Keystore files (for Android development)
+*.keystore
+*.jks
+
+# Crashlytics generated file
+crashlytics-build.properties
